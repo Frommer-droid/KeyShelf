@@ -1,0 +1,20 @@
+{
+  "exit": 0,
+  "stdout_bytes": 0,
+  "stderr_bytes": 0,
+  "ok": true,
+  "frozen": false,
+  "checks": [
+    "QtCore/Gui/Widgets",
+    "icon",
+    "resources",
+    "KDBX create/read/write",
+    "Argon2/AES",
+    "JSON",
+    "TOTP",
+    "UI scale",
+    "extra fields/type change",
+    "hidden window",
+    "clean close"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "full_suite_tests": 60,
+  "targeted_final_tests": 6,
+  "ruff": "passed",
+  "frozen_smoke": "passed",
+  "portable_settings_preserved": true,
+  "features": [
+    "per-service persisted type filters",
+    "unselected type-colored outlines"
+  ],
+  "remote_release": "0.1.0 unchanged"
+}
