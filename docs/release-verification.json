@@ -1,0 +1,86 @@
+{
+  "version": "0.2.1",
+  "tests": 107,
+  "tests_mode": {
+    "offscreen": 105,
+    "Windows_native_shortcut_target": 2,
+    "interactive_tray_autostart": "not run"
+  },
+  "ruff": "passed",
+  "pip_check": "passed",
+  "osv_lock_packages": 28,
+  "osv_known_vulnerabilities": 0,
+  "native_binary_count": 122,
+  "foreign_binary_origins": 0,
+  "qt_msvc_consistent": true,
+  "source_runtime": {
+    "exit": 0,
+    "stdout_bytes": 0,
+    "stderr_bytes": 0,
+    "ok": true,
+    "frozen": false,
+    "checks": [
+      "QtCore/Gui/Widgets",
+      "icon",
+      "resources",
+      "KDBX create/read/write",
+      "Argon2/AES",
+      "JSON",
+      "TOTP",
+      "UI scale",
+      "extra fields/type change",
+      "hidden window",
+      "clean close"
+    ]
+  },
+  "frozen_runtime": {
+    "exit": 0,
+    "stdout_bytes": 0,
+    "stderr_bytes": 0,
+    "ok": true,
+    "frozen": true,
+    "checks": [
+      "QtCore/Gui/Widgets",
+      "icon",
+      "resources",
+      "KDBX create/read/write",
+      "Argon2/AES",
+      "JSON",
+      "TOTP",
+      "UI scale",
+      "extra fields/type change",
+      "hidden window",
+      "clean close"
+    ]
+  },
+  "installer_policy_static": "Russian; D:/Apps or C:/Apps; no recursive UninstallDelete; root user data excluded; PyKeePass template included",
+  "installer_compiled": true,
+  "installer_bytes": 41488809,
+  "installer_sha256": "47534f0c33f43293ef0b771b325b27b688cb9963ce3e76f0d9c119f3d21ee240",
+  "installer_executed": false,
+  "portable_update": "completed; settings and startup.log hash-preserved",
+  "github_publication": "dry-run passed; private repository unchanged; waiting for owner approval; previous releases/tags/branches preserved by plan",
+  "license": "existing GPL-3.0 retained, generic MIT checker exception recorded",
+  "portable_payload_files": 407,
+  "portable_payload_mismatches": 0,
+  "portable_runtime": {
+    "exit": 0,
+    "stdout_bytes": 0,
+    "stderr_bytes": 0,
+    "ok": true,
+    "frozen": true,
+    "checks": [
+      "QtCore/Gui/Widgets",
+      "icon",
+      "resources",
+      "KDBX create/read/write",
+      "Argon2/AES",
+      "JSON",
+      "TOTP",
+      "UI scale",
+      "extra fields/type change",
+      "hidden window",
+      "clean close"
+    ]
+  }
+}

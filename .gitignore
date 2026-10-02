@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+settings.json
+*.log
+*.kdbx
+*.kdbx.*
+.verification/
+Build_Tools/build/
+Build_Tools/dist/
+Build_Tools/installer-work/
+Acc-storage/
+KeyShelf/
+PYTHON_PYSIDE6_*.md
+*.tmp
+
+# Historical internal verification reports
+docs/verification.md
+docs/icon-verification.md
+docs/spinbox-verification.md
+
+.release-archive/
