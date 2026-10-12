@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Хранилище — проектная .venv",
+    "type": "debugpy", "request": "launch",
+    "program": "${workspaceFolder}\\Acc-storage.py",
+    "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "cwd": "${workspaceFolder}", "console": "integratedTerminal"
+  }]
+}

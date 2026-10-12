@@ -1,0 +1,5 @@
+PySide6==6.11.2
+pykeepass==4.2.0
+PyOTP==2.10.0
+cryptography==50.0.2
+qrcode==8.2
